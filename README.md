@@ -1,4 +1,4 @@
-# Predicting-Spinal-issues
+# Predicting-Spinal-issues (Python)
 The Intent of this analysis is to predict Normal and abnormal spine findings 
 based on multiple feautres presented in columns 1 - 12.
 The study will explore the performance of MLP Classifier and logistic regression.
